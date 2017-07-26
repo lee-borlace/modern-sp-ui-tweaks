@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "modern-sp-ui-tweaks",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction 
+        Title="Modern SharePoint UI Tweaks"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="29c0c8f9-3803-44c7-9772-4d795ccb49bd"
+        ClientSideComponentProperties="{}">
+    </CustomAction>
+</Elements>

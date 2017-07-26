@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/modernSpUiTweaks/ModernSpUiTweaksApplicationCustomizer.js",
+      "manifest": "./src/extensions/modernSpUiTweaks/ModernSpUiTweaksApplicationCustomizer.manifest.json",
+      "outputPath": "./dist/modern-sp-ui-tweaks.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "modernSpUiTweaksStrings": "extensions/modernSpUiTweaks/loc/{locale}.js"
+  }
+}

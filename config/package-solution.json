@@ -1,0 +1,23 @@
+{
+  "solution": {
+    "name": "Modern SharePoint UI Tweaks",
+    "id": "be67d403-cd24-4581-beb3-f1e2912e0d8e",
+    "version": "1.0.0.0",
+    "features": [
+      {
+        "title": "Modern SharePoint UI Tweaks",
+        "description": "Various tweaks to the modern SharePoint UI",
+        "id": "a26d625e-6255-478c-ab7e-10fc45fb796c",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/modern-sp-ui-tweaks.sppkg"
+  }
+}
